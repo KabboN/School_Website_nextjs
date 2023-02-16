@@ -26,7 +26,7 @@ const AcademicCalendar = () => (
       <tbody>
         <tr className="bg-white">
           <td className="p-3 border border-gray-400 text-sm md:text-base">January 1</td>
-          <td className="p-3 border border-gray-400 text-sm md:text-base">New Year's Day</td>
+          <td className="p-3 border border-gray-400 text-sm md:text-base">New Year@apos;s Day</td>
         </tr>
         <tr className="bg-gray-100">
           <td className="p-3 border border-gray-400 text-sm md:text-base">January 15</td>
@@ -34,7 +34,7 @@ const AcademicCalendar = () => (
         </tr>
         <tr className="bg-white">
           <td className="p-3 border border-gray-400 text-sm md:text-base">February 14</td>
-          <td className="p-3 border border-gray-400 text-sm md:text-base">Valentine's Day</td>
+          <td className="p-3 border border-gray-400 text-sm md:text-base">Valentine@apos;s Day</td>
         </tr>
         
       </tbody>
