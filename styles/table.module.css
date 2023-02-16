@@ -1,0 +1,18 @@
+.table {
+    width: 95%;
+    border-collapse: collapse;
+    margin-left: 30px;
+    margin-right: 10px;
+  }
+  
+  .header, .cell {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+
+  }
+  
+  .header {
+    background-color: lightgray;
+  }
+  
